@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <img src="/logo192.png" alt="" srcset="" />
       <img src={Logo} alt="" />
+      Selam Dünya
     </div>
   );
 }
